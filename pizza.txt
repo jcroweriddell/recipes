@@ -1,5 +1,6 @@
 Ingredients
 
 1. Pizza dough
-2. Tomato paste
+2. Tomato sauce (see sauce.txt)
 3. Vegan cheese
+
