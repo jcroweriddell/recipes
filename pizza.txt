@@ -3,4 +3,6 @@ Ingredients
 1. Pizza dough
 2. Tomato sauce (see sauce.txt)
 3. Vegan cheese
+4. Yellow peppers
+5. Mushrooms
 
